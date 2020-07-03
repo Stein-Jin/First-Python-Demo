@@ -1,11 +1,9 @@
 dependencies:
   - python=3
   - pip:
-    - spacy
     - ipykernel
-    - scipy
-    - numpy
-    - scikit-learn
-    - matplotlib
-    - pandas
-    - thinc
+    - statsmodels == 0.8.0
+    - plotnine
+    - seaborn
+    - requests
+
