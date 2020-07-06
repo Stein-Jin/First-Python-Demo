@@ -6,4 +6,10 @@ dependencies:
     - plotnine
     - seaborn
     - requests
-
+    - spacy
+    - scipy
+    - numpy
+    - scikit-learn
+    - matplotlib
+    - pandas
+    - thinc
