@@ -1,2 +1,4 @@
 python handle_matplotlib_chinese.py
-python -m ipykernel install --user --name=wangshuyi
+python -m ipykernel install --user --name=steinjin
+python -m spacy download en
+python -m spacy download en_core_web_lg
